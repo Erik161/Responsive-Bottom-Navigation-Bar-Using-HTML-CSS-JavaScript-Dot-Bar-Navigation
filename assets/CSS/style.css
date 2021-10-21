@@ -176,6 +176,7 @@ img{
 
 .nav__name{
     font-size: var(--tiny-font-size);
+    display: none; /*Mininalist design, hidden labels */
 }
 
 .nav__icon{
@@ -188,6 +189,19 @@ img{
     color: var(--first-color);
     transition: .3s;
 }
+
+/*=============== MINIMALIST DESIGN, ACTIVE LINK ===============*/
+.active-link::before{
+    content: '';
+    position: absolute;
+    bottom: -.5rem;
+    width: 4px;
+    height: 4px;
+    background-color: var(--first-color);
+    border-radius: 50%;
+}
+
+
 
 
 /*=============== CHANGE BACKGROUND HEADER ===============*/
@@ -234,7 +248,7 @@ img{
     }
     .nav__name {
       font-size: var(--normal-font-size);
-      /* display: block; */ /* Minimalist design, visible labels */
+      display: block; /* Minimalist design, visible labels */
     }
     .nav__link:hover {
       color: var(--first-color);
