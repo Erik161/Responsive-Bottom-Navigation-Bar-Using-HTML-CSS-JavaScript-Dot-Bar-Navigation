@@ -182,4 +182,21 @@ img{
     font-size: 1.5rem;
 }
 
-/*Active Link*/
+/*=============== ACTIVE LINK ===============*/
+.active-link{
+    position: relative;
+    color: var(--first-color);
+    transition: .3s;
+}
+
+
+/*=============== CHANGE BACKGROUND HEADER ===============*/
+.scroll-header{
+    box-shadow:0 1px 12px hsl(var(--hue), var(--sat), 15%, 0.15);
+}
+
+
+
+
+
+
