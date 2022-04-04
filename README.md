@@ -1,4 +1,4 @@
-# Responsive-Bottom-Navigation-Bar-Using-HTML-CSS-JavaScript-Dot-Bar-Navigation [:arrow_right: PREVIEW :arrow_left:](https://erik161.github.io/Responsive-Bottom-Navigation-Bar-Using-HTML-CSS-JavaScript-Dot-Bar-Navigation/) 
+# 🔮 Responsive-Bottom-Navigation-Bar-Using-HTML-CSS-JavaScript-Dot-Bar-Navigation [:arrow_right: PREVIEW :arrow_left:](https://erik161.github.io/Responsive-Bottom-Navigation-Bar-Using-HTML-CSS-JavaScript-Dot-Bar-Navigation/) 
 
 Using-HTML-CSS-JavaScript-Dot-Bar-Navigation
 
